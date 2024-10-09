@@ -1,6 +1,7 @@
 body{
     background: black;
     color: white;
+    align-items: center;
 }
 header{
     background: rgb(123, 201, 237)
