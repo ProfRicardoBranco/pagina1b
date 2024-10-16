@@ -13,6 +13,6 @@ body, html{
 .video{
     margin-left:auto;
 	margin-right:auto;
-	display: block;
+	display: inline-block;
 	clear: both;
 }
