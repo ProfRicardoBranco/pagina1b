@@ -7,6 +7,6 @@ body, html{
     align-items: center;
     height: 100%; 
 }
-header{
-    background: rgb(123, 201, 237)
+.paragrafoPreto{
+    color: black;
 }
