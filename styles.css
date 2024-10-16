@@ -1,4 +1,7 @@
-body{
+body, html{
+    height: 100%;
+  }
+  body{
     background-image:linear-gradient(black, white, rgb(34, 182, 222));
     color: white;
     align-items: center;
