@@ -18,7 +18,9 @@ body, html{
 }
 header{
     background: orangered;
-}
+    border-bottom: blue;
+    padding: 20px;
+    font-size: 40;
 iframe{
     background: green;
     padding: 30px;
