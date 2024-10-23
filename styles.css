@@ -16,3 +16,6 @@ body, html{
 	display: inline-block;
 	clear: both;
 }
+header{
+    background: orangered;
+}
