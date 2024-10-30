@@ -18,7 +18,7 @@ body, html{
 }
 header{
     background: orangered;
-    border-bottom:dotted solid 5px blue;
+    border-bottom: solid 5px blue;
     padding: 20px;
     font-size: 40px;
 }
