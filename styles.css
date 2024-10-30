@@ -7,6 +7,7 @@ body, html{
     align-items: center;
     height: 100%; 
     background-repeat: no-repeat;
+    background-size: cover;
     background-image: url("cat-5320572_1280.jpg");
 }
 .paragrafoPreto{
