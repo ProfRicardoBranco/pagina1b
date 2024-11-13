@@ -15,13 +15,15 @@ body, html{
     color: black;
 }
 .video{
+    clear: both;
     margin-left:auto;
 	margin-right:auto;
-	display: inline-block;
-	clear: both;
+	display: flex;
+    justify-content: center;
+	
 }
 header{
-    background: orangered;
+    background: rgb(20, 2, 123);
     border-bottom: solid 5px blue;
     padding: 20px;
     font-size: 40px;
